@@ -1,4 +1,4 @@
-# Javascript-tutorial
+# Javascript-Learning-Journey
 
 # 🌱 My JavaScript Learning Journey
 
