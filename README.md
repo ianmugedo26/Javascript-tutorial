@@ -64,13 +64,13 @@ Open the folders and run the .html files in a browser.
 
 Read the comments in the .js files — they explain my thought process.
 
-🌟 Reflections
+##🌟 Reflections
 “Learning to write programs stretches your mind and helps you think better.”
 — Bill Gates
 
 JavaScript has challenged me to think logically and creatively. I’m excited to keep going, build cool things, and become a better developer with every line of code I write.
 
-🛠️ Tools I Use
+##🛠️ Tools I Use
 VS Code – for editing
 
 Live Server – for running HTML files
@@ -79,20 +79,20 @@ Chrome DevTools – for debugging
 
 MDN Web Docs – my go-to reference
 
-🤝 Contributions
+##🤝 Contributions
 While this is a personal project, I’m always open to tips, feedback, or learning resources! Feel free to open an issue or start a discussion.
 
-📜 License
+##📜 License
 This repository is under the MIT License — free for anyone to learn from!
 
-🙋‍♂️ About Me
+##🙋‍♂️ About Me
 I'm a student learning web development.
 
 📘 Currently learning: JavaScript
 
-📍 Based in: [Your Location]
+📍 Based in: [Nairobi]
 
-🌐 GitHub: @your-username
+🌐 GitHub: @ianmugedo26
 
 Thanks for stopping by! 😊
 
@@ -102,7 +102,6 @@ Edit
 
 ---
 
-Let me know if you'd like this in a more informal or more professional style, or if you want a version that includes screenshots or links to projects.
 
 
 
